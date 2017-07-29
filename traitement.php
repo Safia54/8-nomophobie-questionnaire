@@ -32,6 +32,6 @@ $sum = $_POST["reponse1"] + $_POST["reponse2"]+ $_POST["reponse3"]+ $_POST["repo
 	<p> Pour savoir si vous êtes nomophobes, évaluez votre résultat. Nous vous rappellons que la note la plus basse est de <strong> 20 </strong> points et la plus élevée est de <strong> 140 </strong> points</p>
 	<br/>
 	<p> <a href="index.html"> Cliquez ici pour revenir au questionnaire </a> </p>
-</<main></main>>
+</main>
 </body>
 </html>
